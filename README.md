@@ -1,6 +1,6 @@
-# 💰 Tip Calculator — Flutter Assignment
+# Stateless or Stateful Widget
 
-A clean, professional **Tip Calculator** mobile application built with Flutter,
+**Tip Calculator** mobile application built with Flutter,
 demonstrating the use of both **Stateless** and **Stateful** widgets.
 
 ---
